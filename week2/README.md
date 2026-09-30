@@ -45,3 +45,16 @@ python preprocessing.py
 
 ## Notes
 The script is a demonstration of a preprocessing workflow. Review the actual dataset and verify the cleaning results before using the output for further analysis.
+## Actual Program Output
+
+Original dataset: 180519 rows × 53 columns
+
+Final dataset: 180519 rows × 60 columns
+
+The program completed successfully and generated
+`logistics_preprocessed.csv`.
+
+### Screenshot
+
+![Successful program output]
+<img width="907" height="537" alt="Screenshot 2026-09-30 211324" src="https://github.com/user-attachments/assets/d6c3c998-28e4-4f3f-99f1-792f99ad3fe9" />
